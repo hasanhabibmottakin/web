@@ -1,0 +1,72 @@
+name: Build API JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" 
+
+jobs:
+  generate-api:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install jq
+        run: sudo apt-get install -y jq curl
+
+      - name: Fetch and transform JSON
+        run: |
+          
+          curl -s https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/data.json -o data.json
+
+         
+          jq '{
+            "Live Event (STARTED)": [
+              .[] | select(.streamingStatus=="STARTED") | {
+                id: (input_line_number),
+                title: .title,
+                description: (.category + " • " + .tournament),
+                image: .image_url,
+                playerType: "jwplayer",
+                videoSource: .adfree_stream,
+                isFree: false
+              }
+            ],
+            "Live Event (NOT_STARTED)": [
+              .[] | select(.streamingStatus=="NOT_STARTED") | {
+                id: (input_line_number),
+                title: .title,
+                description: (.category + " • " + .tournament),
+                image: .image_url,
+                playerType: "jwplayer",
+                videoSource: .adfree_stream,
+                isFree: true
+              }
+            ],
+            "Live Event (COMPLETED)": [
+              .[] | select(.streamingStatus=="COMPLETED") | {
+                id: (input_line_number),
+                title: .title,
+                description: (.category + " • " + .tournament),
+                image: .image_url,
+                playerType: "jwplayer",
+                videoSource: .adfree_stream,
+                isFree: true
+              }
+            ]
+          }' data.json > api.json
+
+      - name: Commit and push api.json
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add api.json
+          git commit -m "Auto-update api.json" || echo "No changes to commit"
+          git push
