@@ -8,6 +8,15 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137374_english_hls_b4f9bd502a18207_1ta-di_h264/index.m3u8",
       "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Levante Vs Rc Celta",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130936_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130936_english_hls_9570eea17b32013_1adfreeta-di_h264/index.m3u8",
+      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -16,15 +25,6 @@
       "title": "United Arab Emirates Vs Usa",
       "description": "Cricket • ICC CWC League 2, 2023-27",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137255_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Levante Vs Rc Celta",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130936_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -321,15 +321,6 @@
   "Live Event (COMPLETED)": [
     {
       "id": 419,
-      "title": "Patnitop Warriors Vs The Pulwama Titans",
-      "description": "Cricket • Indian Heaven Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137874_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Nepal Vs Usa",
       "description": "Cricket • ICC CWC League 2, 2023-27",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137254_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -342,6 +333,15 @@
       "title": "Srinagar Sultan Vs Jammu Lions",
       "description": "Cricket • Indian Heaven Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137873_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Patnitop Warriors Vs The Pulwama Titans",
+      "description": "Cricket • Indian Heaven Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137874_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
