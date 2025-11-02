@@ -2,20 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Real Betis Vs Rcd Mallorca",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130932_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Queensland Vs New South Wales",
+      "description": "Cricket • One Day Cup, 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133940_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Real Zaragoza Vs Deportivo De La Coruña",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137617_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/133940_english_hls_876bf234804130_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -25,15 +16,6 @@
       "title": "United Arab Emirates Vs Usa",
       "description": "Cricket • ICC CWC League 2, 2023-27",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137255_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "New South Wales Vs Queensland",
-      "description": "Cricket • One Day Cup, 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133940_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -313,6 +295,24 @@
       "title": "Al Nassr Fc Vs Fc Goa",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136134_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Al Wehdat Vs Esteghlal Fc",
+      "description": "Football • AFC Champions League Two 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136098_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Portsmouth F.c. Vs Wrexham A.f.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136960_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
