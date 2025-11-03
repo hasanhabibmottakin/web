@@ -2,23 +2,12 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Nasaf Vs Al Wahda",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136061_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136061_english_hls_ddd7e07d1d64498_1ta-di_h264/index.m3u8",
-      "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
       "title": "Al Duhail Vs Shabab Al Ahli",
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136063_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136063_english_hls_106f1fc78579869_1ta-di_h264/index.m3u8",
+      "isFree": false
     },
     {
       "id": 419,
@@ -26,9 +15,11 @@
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136062_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136062_english_hls_a4e6e3a33d69168_1ta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "Al Gharafa Vs Al Hilal Sfc",
@@ -103,18 +94,18 @@
     },
     {
       "id": 419,
-      "title": "Sepahan Vs Ahal",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136122_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Al Ittihad Vs Sharjah",
+      "description": "Football • AFC Champions League Elite 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136066_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Al Ittihad Vs Sharjah",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136066_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Sepahan Vs Ahal",
+      "description": "Football • AFC Champions League Two 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136122_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -331,6 +322,15 @@
       "title": "Day 1",
       "description": "Golf • Aramco Shenzhen Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137217_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Day 3",
+      "description": "Horse Racing • Melbourne Cup Carnival 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137284_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
