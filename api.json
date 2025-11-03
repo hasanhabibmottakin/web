@@ -2,32 +2,21 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Al Duhail Vs Shabab Al Ahli",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136063_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136063_english_hls_106f1fc78579869_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "Al Gharafa Vs Al Hilal Sfc",
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136064_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136064_english_hls_63955f19e017870_1ta-di_h264/index.m3u8",
       "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
+    },
     {
       "id": 419,
       "title": "Real Oviedo Vs Ca Osasuna",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130937_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130937_english_hls_bb0ec6be9b13086_1adfreeta-di_h264/index.m3u8",
+      "isFree": false
     },
     {
       "id": 419,
@@ -35,9 +24,11 @@
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137618_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137618_english_hls_9e407230f881393_1ta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "Seoul Vs Chengdu Rongcheng",
@@ -112,24 +103,6 @@
     },
     {
       "id": 419,
-      "title": "Srinagar Sultan Vs Gulmarg Royal",
-      "description": "Cricket • Indian Heaven Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137877_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Patnitop Warriors Vs Kishtwar Giants",
-      "description": "Cricket • Indian Heaven Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137878_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "United Arab Emirates Vs Nepal",
       "description": "Cricket • ICC CWC League 2, 2023-27",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137256_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -139,18 +112,18 @@
     },
     {
       "id": 419,
-      "title": "Day 2",
-      "description": "Horse Racing • Melbourne Cup Carnival 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137283_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "New Zealand Vs West Indies",
+      "description": "Cricket • West Indies tour of New Zealand, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137688_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "New Zealand Vs West Indies",
-      "description": "Cricket • West Indies tour of New Zealand, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137688_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 2",
+      "description": "Horse Racing • Melbourne Cup Carnival 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137283_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -169,15 +142,6 @@
       "title": "Johor Darul Ta'zim Vs Shanghai Shenhua",
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136018_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Srinagar Sultan Vs Uri Panthers",
-      "description": "Cricket • Indian Heaven Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137879_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -232,15 +196,6 @@
       "title": "Khaldiya Vs Andijan",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136110_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Patnitop Warriors Vs Ladakh Heros",
-      "description": "Cricket • Indian Heaven Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137880_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -334,6 +289,15 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Lion City Sailors Vs Bangkok United",
+      "description": "Football • AFC Champions League Two 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136169_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
@@ -342,6 +306,42 @@
       "title": "Usa Vs United Arab Emirates",
       "description": "Cricket • ICC CWC League 2, 2023-27",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137255_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Srinagar Sultan Vs Gulmarg Royal",
+      "description": "Cricket • Indian Heaven Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137877_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Patnitop Warriors Vs Kishtwar Giants",
+      "description": "Cricket • Indian Heaven Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137878_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Srinagar Sultan Vs Uri Panthers",
+      "description": "Cricket • Indian Heaven Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137879_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Patnitop Warriors Vs Ladakh Heros",
+      "description": "Cricket • Indian Heaven Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137880_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
