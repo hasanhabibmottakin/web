@@ -2,33 +2,15 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Al Sadd Vs Al Ahli Saudi Fc",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136065_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136065_english_hls_5352da6dab96497_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Sepahan Vs Ahal",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136122_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136122_english_hls_965c441bf461299_1ta-di_h264/index.m3u8",
-      "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
       "title": "Al Ittihad Vs Sharjah",
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136066_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136066_english_hls_7ab6195eb063118_1adfreeta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "United Arab Emirates Vs Nepal",
@@ -340,6 +322,24 @@
       "title": "South Africa Vs Afghanistan",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137831_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Sri Lanka Vs Bangladesh",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137832_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "India Vs Pakistan",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137833_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
