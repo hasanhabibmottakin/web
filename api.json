@@ -8,18 +8,18 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8",
       "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
+    },
     {
       "id": 419,
-      "title": "New Zealand Vs West Indies",
+      "title": "West Indies Vs New Zealand",
       "description": "Cricket • West Indies tour of New Zealand, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137688_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
+      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762345804~acl=/*~id=62571897067377722815982083803241~hmac=920693ef1790653ecda31ab3f9c4e576bb32c170891811f357e8b5bdd3c6a825",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "Vissel Kobe Vs Ulsan Hd",
@@ -58,6 +58,15 @@
     },
     {
       "id": 419,
+      "title": "Indonesia Vs Myanmar",
+      "description": "Cricket • Rising East Asia Tri-Series, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138011_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Nam Dinh Vs Gamba Osaka",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136158_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -70,15 +79,6 @@
       "title": "Eastern Sc Vs Ratchaburi",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136157_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Indonesia Vs Myanmar",
-      "description": "Cricket • Rising East Asia Tri-Series, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138011_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -292,18 +292,18 @@
     },
     {
       "id": 419,
-      "title": "Day 1",
-      "description": "Golf • World Wide Technology Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137973_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "South Africa Vs Afghanistan",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137831_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "South Africa Vs Afghanistan",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137831_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 1",
+      "description": "Golf • World Wide Technology Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137973_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
