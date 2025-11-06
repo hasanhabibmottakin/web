@@ -26,15 +26,6 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136146_english_hls_8d5e5a377a84440_1ta-di_h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Day 1",
-      "description": "Golf • Abu Dhabi HSBC Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137163_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -139,9 +130,27 @@
     },
     {
       "id": 419,
+      "title": "Reading Vs Stevenage",
+      "description": "Football • League One 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135964_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Day 1",
       "description": "Golf • World Wide Technology Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137973_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Al Najmah Sc Vs Al Hilal Sfc",
+      "description": "Football • Roshn Saudi League 2025-2026",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137892_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -160,15 +169,6 @@
       "title": "Day 2",
       "description": "Golf • Abu Dhabi HSBC Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137164_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Al Najmah Sc Vs Al Hilal Sfc",
-      "description": "Football • Roshn Saudi League 2025-2026",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137892_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -202,15 +202,6 @@
     },
     {
       "id": 419,
-      "title": "Practice 1",
-      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118481_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Mirandés Vs Sporting De Gijón",
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137824_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -220,9 +211,9 @@
     },
     {
       "id": 419,
-      "title": "Session 1   Qualifying Time Trials",
-      "description": "Motorsports • E1 Miami GP",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Practice 1",
+      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118481_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -238,6 +229,15 @@
     },
     {
       "id": 419,
+      "title": "Session 1   Qualifying Time Trials",
+      "description": "Motorsports • E1 Miami GP",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "India Vs Kuwait",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137836_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -247,18 +247,18 @@
     },
     {
       "id": 419,
-      "title": "Sprint Qualifying",
-      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118482_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137837_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Tbc Vs Tbc",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137837_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Sprint Qualifying",
+      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118482_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -325,18 +325,18 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Nepal Vs United Arab Emirates",
-      "description": "Cricket • ICC CWC League 2, 2023-27",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137256_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137842_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    },
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "New Zealand Vs West Indies",
