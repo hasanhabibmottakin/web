@@ -2,24 +2,6 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "New Zealand Vs West Indies",
-      "description": "Cricket • West Indies tour of New Zealand, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137689_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762449533~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=2fa093228c994074a8a49da9bb8be5e73976fac4699ccef7d639857faa9567a9",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Macarthur Vs Cong An Ha Noi",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136145_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "Pohang Steelers Vs Tampines Rovers Fc",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136181_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -220,15 +202,6 @@
     },
     {
       "id": 419,
-      "title": "Practice 1",
-      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118481_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Elche Cf Vs Real Sociedad",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130942_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -247,9 +220,9 @@
     },
     {
       "id": 419,
-      "title": "Session 1   Qualifying Time Trials",
-      "description": "Motorsports • E1 Miami GP",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Practice 1",
+      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118481_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -259,6 +232,15 @@
       "title": "Mirandés Vs Sporting De Gijón",
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137824_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Session 1   Qualifying Time Trials",
+      "description": "Motorsports • E1 Miami GP",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -292,6 +274,15 @@
     },
     {
       "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137837_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Day 2",
       "description": "Golf • World Wide Technology Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137974_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -304,15 +295,6 @@
       "title": "Session 2   Qualifying Races",
       "description": "Motorsports • E1 Miami GP",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137969_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Tbc Vs Tbc",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137837_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -334,6 +316,15 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137839_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
@@ -342,6 +333,15 @@
       "title": "Nepal Vs United Arab Emirates",
       "description": "Cricket • ICC CWC League 2, 2023-27",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137256_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "New Zealand Vs West Indies",
+      "description": "Cricket • West Indies tour of New Zealand, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137689_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
