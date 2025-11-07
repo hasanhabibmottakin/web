@@ -2,20 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "India Vs Pakistan",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137833_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 1",
+      "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119277_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137833_english_hls_45d3a8d78e21529_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Day 2",
-      "description": "Golf • Aramco China Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137218_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137218_english_hls_b38d1192d59447_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/119277_english_hls_4f07ec7dfa62887_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -26,18 +17,18 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137164_english_hls_21dabe9c8f77195_1ta-di_h264/index.m3u8",
       "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
+    },
     {
       "id": 419,
-      "title": "England Vs Australia",
+      "title": "Australia Vs England",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137834_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137834_english_hls_e9c8080ec223319_1ta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "South Africa Vs Nepal",
@@ -103,9 +94,27 @@
     },
     {
       "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137842_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Al Najmah Sc Vs Al Hilal Sfc",
       "description": "Football • Roshn Saudi League 2025-2026",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137892_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137843_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -132,16 +141,7 @@
       "id": 419,
       "title": "Tbc Vs Tbc",
       "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137842_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Tbc Vs Tbc",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137843_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137844_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -151,15 +151,6 @@
       "title": "Timor Leste Vs Indonesia",
       "description": "Cricket • Rising East Asia Tri-Series, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138014_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Tbc Vs Tbc",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137844_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -196,15 +187,6 @@
       "title": "Kashiwa Reysol Vs Nagoya Grampus",
       "description": "Football • J League 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137941_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Portugal Gp",
-      "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119277_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -259,6 +241,15 @@
       "title": "Blackburn Rovers F.c. Vs Derby County Football Club",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136961_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Girona Fc Vs Deportivo Alaves",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130945_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -342,6 +333,15 @@
       "title": "Bangladesh Vs Sri Lanka",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137832_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "India Vs Pakistan",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137833_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
