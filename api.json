@@ -2,24 +2,24 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Day 1",
-      "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119277_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Session 1   Qualifying Time Trials",
+      "description": "Motorsports • E1 Miami GP",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/119277_english_hls_4f07ec7dfa62887_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Practice 1",
-      "description": "Formula 1 • F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118481_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://dgg3rithgf2kb.cloudfront.net/out/v1/5d627d0113d84431aa6b9e98f2c5c2ac/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137968_english_hls_6535ee454728585_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
+    {
+      "id": 419,
+      "title": "Al Najmah Sc Vs Al Hilal Sfc",
+      "description": "Football • Roshn Saudi League 2025-2026",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137892_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
     {
       "id": 419,
       "title": "South Africa Vs Nepal",
@@ -112,9 +112,9 @@
     },
     {
       "id": 419,
-      "title": "Al Najmah Sc Vs Al Hilal Sfc",
-      "description": "Football • Roshn Saudi League 2025-2026",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137892_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Timor Leste Vs Indonesia",
+      "description": "Cricket • Rising East Asia Tri-Series, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138014_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -139,15 +139,6 @@
     },
     {
       "id": 419,
-      "title": "Timor Leste Vs Indonesia",
-      "description": "Cricket • Rising East Asia Tri-Series, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138014_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Myanmar Vs Indonesia",
       "description": "Cricket • Rising East Asia Tri-Series, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138015_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -166,24 +157,6 @@
     },
     {
       "id": 419,
-      "title": "Kashima Antlers Vs Yokohama",
-      "description": "Football • J League 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137940_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Session 1   Qualifying Time Trials",
-      "description": "Motorsports • E1 Miami GP",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137968_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Blackburn Rovers F.c. Vs Derby County Football Club",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136961_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -193,18 +166,27 @@
     },
     {
       "id": 419,
-      "title": "Kashiwa Reysol Vs Nagoya Grampus",
-      "description": "Football • J League 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137941_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Girona Fc Vs Deportivo Alaves",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130945_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Girona Fc Vs Deportivo Alaves",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130945_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Kashima Antlers Vs Yokohama",
+      "description": "Football • J League 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137940_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Kashiwa Reysol Vs Nagoya Grampus",
+      "description": "Football • J League 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137941_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -283,6 +265,15 @@
     },
     {
       "id": 419,
+      "title": "Rcd Espanyol Vs Villarreal Cf",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130943_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Day 3",
       "description": "Golf • Aramco China Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137219_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -310,6 +301,15 @@
     }
   ],
   "Live Event (COMPLETED)": [
+    {
+      "id": 419,
+      "title": "Day 1",
+      "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119277_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
     {
       "id": 419,
       "title": "Bangladesh Vs Hong Kong, China",
