@@ -2,20 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Pakistan Vs Kuwait",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137853_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Race Day",
+      "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119281_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137853_english_hls_b6840d1b522735_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Timor Leste Vs Myanmar",
-      "description": "Cricket • Rising East Asia Tri-Series, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138016_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/119281_english_hls_8c19a8c1ea28939_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -124,15 +115,6 @@
       "title": "Granada Vs Real Zaragoza",
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137822_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Portugal Gp",
-      "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119281_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -253,18 +235,27 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Afghanistan Vs Kuwait",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137844_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Ispe Wfc Vs Tokyo Verdy Beleza",
+      "description": "Football • AFC Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137950_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
+    {
+      "id": 419,
+      "title": "Naegohyang Women's Fc Vs Suwon Fc",
+      "description": "Football • AFC Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137951_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "United Arab Emirates Vs Nepal",
@@ -342,6 +333,15 @@
       "title": "Bangladesh Vs Hong Kong, China",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137852_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Pakistan Vs Kuwait",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137853_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
