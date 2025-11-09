@@ -2,20 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Kuwait Vs England",
+      "title": "Bangladesh Vs Hong Kong, China",
       "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137850_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137852_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Sri Lanka Vs United Arab Emirates",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137851_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137851_english_hls_c0533a6d5c81966_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137852_english_hls_1467bb374653945_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -44,21 +35,21 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137943_english_hls_fc46bf8fd03460_1ta-di_h264/index.m3u8",
       "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Day 4",
+      "description": "Golf • Abu Dhabi HSBC Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137166_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8",
+      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
     {
       "id": 419,
-      "title": "Bangladesh Vs Hong Kong, China",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137852_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Tbc Vs Tbc",
+      "title": "Pakistan Vs Kuwait",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137853_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
@@ -166,15 +157,6 @@
     },
     {
       "id": 419,
-      "title": "Day 4",
-      "description": "Golf • Abu Dhabi HSBC Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137166_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Portugal Gp",
       "description": "MotoGP • QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119281_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -253,18 +235,18 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Nepal Vs India",
-      "description": "Cricket • Hong Kong Sixes, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137841_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Roma Women Vs Valerenga Fotball Women",
+      "description": "Football • UEFA Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137560_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    },
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "Sri Lanka Vs United Arab Emirates",
@@ -342,6 +324,24 @@
       "title": "Pakistan Vs Australia",
       "description": "Cricket • Hong Kong Sixes, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137849_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Kuwait Vs England",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137850_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Sri Lanka Vs United Arab Emirates",
+      "description": "Cricket • Hong Kong Sixes, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137851_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
