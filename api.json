@@ -35,15 +35,6 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/134023_english_hls_999dad716723692_1ta-di_h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Myanmar Vs Indonesia",
-      "description": "Cricket • Rising East Asia Tri-Series, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138017_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138017_english_hls_a1adf02fad71641_1ta-di_h264/index.m3u8",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -345,5 +336,15 @@
       "isFree": true
     }
   ],
-  "Live Event (COMPLETED)": []
+  "Live Event (COMPLETED)": [
+    {
+      "id": 419,
+      "title": "Myanmar Vs Indonesia",
+      "description": "Cricket • Rising East Asia Tri-Series, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138017_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    }
+  ]
 }
