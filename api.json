@@ -26,15 +26,6 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138020_english_hls_5ed97ccc8e51261_1ta-di_h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "West Indies Vs New Zealand",
-      "description": "Cricket • West Indies tour of New Zealand, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137692_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763015400~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=22cadb4afd8b86066f4428a00dc119a0aa5fbe06d8ab3b3fe493c8511a6990a9",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -345,5 +336,15 @@
       "isFree": true
     }
   ],
-  "Live Event (COMPLETED)": []
+  "Live Event (COMPLETED)": [
+    {
+      "id": 419,
+      "title": "West Indies Vs New Zealand",
+      "description": "Cricket • West Indies tour of New Zealand, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137692_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    }
+  ]
 }
