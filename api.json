@@ -2,6 +2,15 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
+      "title": "India A Vs United Arab Emirates",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138243_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763145000~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=026b443bd90819d85322f882600ef31cf06f2c9ed6556b28cd6ba8199da5faa4",
+      "isFree": false
+    },
+    {
+      "id": 419,
       "title": "Day 1",
       "description": "MotoGP • MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119293_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -20,15 +29,6 @@
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "India A Vs United Arab Emirates",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138243_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Bangladesh A Vs Hong Kong, China",
