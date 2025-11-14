@@ -2,6 +2,15 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
+      "title": "Pakistan Shaheens Vs Oman",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138242_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763123400~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=6a6e37cda2d41fac72900aef5f506220731dd9f634fd863e764810b96f83f1e6",
+      "isFree": false
+    },
+    {
+      "id": 419,
       "title": "Ireland Vs Bangladesh",
       "description": "Cricket • Ireland tour of Bangladesh, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138237_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -17,6 +26,15 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133729011_1ta-di_h264/index.m3u8",
       "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Day 2",
+      "description": "Golf • DP World Tour Championship, Dubai",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137168_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://india-mpv2.fancode.com/out/v1/ap-south-1/137168_english_137168/hls-h264/index.m3u8",
+      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -25,15 +43,6 @@
       "title": "India A Vs United Arab Emirates",
       "description": "Cricket • ACC Asia Cup Rising Stars 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138243_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Pakistan Shaheens Vs Oman",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138242_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -76,15 +85,6 @@
     },
     {
       "id": 419,
-      "title": "Day 2",
-      "description": "Golf • DP World Tour Championship, Dubai",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137168_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Valencia Gp",
       "description": "MotoGP • MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119293_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -121,18 +121,18 @@
     },
     {
       "id": 419,
-      "title": "Valencia Gp",
-      "description": "MotoGP • MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119296_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Naegohyang Women's Fc Vs Ispe Wfc",
+      "description": "Football • AFC Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137957_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Naegohyang Women's Fc Vs Ispe Wfc",
-      "description": "Football • AFC Women's Champions League 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137957_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Valencia Gp",
+      "description": "MotoGP • MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119296_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -334,17 +334,16 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Myanmar Vs Timor Leste",
-      "description": "Cricket • Rising East Asia Tri-Series, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138022_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Pakistan Shaheens Vs United Arab Emirates",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138250_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     }
-  ]
+  ],
+  "Live Event (COMPLETED)": []
 }
