@@ -2,20 +2,20 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
+      "title": "Gillingham Vs Crawley Town Fc",
+      "description": "Football • League Two 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137001_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137001_english_hls_170928622b74880_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
       "title": "Day 3",
       "description": "Golf • Butterfield Bermuda Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137979_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137979_english_hls_56ebf2429f50745_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Sri Lanka A Vs Afghanistan A",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138245_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763231400~acl=/*~id=48204b0390cc49888b8507685173f43c-1755427161715~hmac=60d2e86bf56ac8937dbd43c6b86e455be4577f431882edd52edb548a5266dc53",
       "isFree": false
     }
   ],
@@ -40,15 +40,6 @@
     },
     {
       "id": 419,
-      "title": "Gillingham Vs Crawley Town Fc",
-      "description": "Football • League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137001_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "India A Vs Pakistan Shaheens",
       "description": "Cricket • ACC Asia Cup Rising Stars 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138247_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -58,18 +49,18 @@
     },
     {
       "id": 419,
-      "title": "Racing Club Vs Granada",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138061_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "West Indies Under 19 Vs England Under 19",
+      "description": "Cricket • England Under-19 tour of West Indies, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138037_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "West Indies Under 19 Vs England Under 19",
-      "description": "Cricket • England Under-19 tour of West Indies, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138037_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Racing Club Vs Granada",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138061_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -94,6 +85,15 @@
     },
     {
       "id": 419,
+      "title": "Nigeria Vs Dr Congo",
+      "description": "Football • CAF World Cup Qualifiers",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138152_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Day 4",
       "description": "Golf • DP World Tour Championship, Dubai",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137170_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -106,15 +106,6 @@
       "title": "Valencia Gp",
       "description": "MotoGP • MOTUL GRAND PRIX OF THE VALENCIAN COMMUNITY",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119297_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Nigeria Vs Dr Congo",
-      "description": "Football • CAF World Cup Qualifiers",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138152_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -342,6 +333,15 @@
       "title": "Hong Kong, China Vs Bangladesh A",
       "description": "Cricket • ACC Asia Cup Rising Stars 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138244_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Sri Lanka A Vs Afghanistan A",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138245_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
