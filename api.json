@@ -2,24 +2,15 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Janakpur Bolts Vs Kathmandu Gurkhas",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138293_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Afghanistan A Vs Bangladesh A",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138249_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138293_english_hls_fd44d488d616019_1ta-di_h264/index.m3u8",
+      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3",
       "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "Bangladesh A Vs Afghanistan A",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138249_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Pakistan Shaheens Vs United Arab Emirates",
@@ -40,15 +31,6 @@
     },
     {
       "id": 419,
-      "title": "Chitwan Rhinos Vs Karnali Yaks",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138294_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Quetta Qavalry Vs Northern Warriors",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138203_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -58,9 +40,9 @@
     },
     {
       "id": 419,
-      "title": "Cultural Leonesa Vs Málaga",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138064_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Chitwan Rhinos Vs Karnali Yaks",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138294_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -88,6 +70,15 @@
       "title": "Deccan Gladiators Vs Uae Bulls",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138204_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Cultural Leonesa Vs Málaga",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138064_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -166,7 +157,7 @@
     },
     {
       "id": 419,
-      "title": "Kathmandu Gurkhas Vs Sudurpaschim Royals",
+      "title": "Kathmandu Gorkhas Vs Sudurpaschim Royals",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138296_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
@@ -322,6 +313,15 @@
       "title": "Scotland Women Vs Uganda Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138087_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Namibia Women Vs Tanzania Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138074_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
