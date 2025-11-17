@@ -2,11 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Afghanistan A Vs Bangladesh A",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138249_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Cultural Leonesa Vs Málaga",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138064_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763425801~acl=/*~id=eea123e5274c5cf4970f3c2dcfebe0f7-1763382600152~hmac=d8609ccd160d4dec5844e6d489af72fe95a2a22b92ec40595c2abab86dbebcc3",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138064_english_hls_dd5bdf33a211900_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -40,6 +40,15 @@
     },
     {
       "id": 419,
+      "title": "Deccan Gladiators Vs Uae Bulls",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138204_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Indonesia Vs Bahrain",
       "description": "Cricket • Bahrain tour of Indonesia, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138008_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -58,27 +67,9 @@
     },
     {
       "id": 419,
-      "title": "Deccan Gladiators Vs Uae Bulls",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138204_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Biratnagar Kings Vs Pokhara Avengers",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138295_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Cultural Leonesa Vs Málaga",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138064_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -316,32 +307,41 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Namibia Women Vs Tanzania Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138074_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "East Bengal Vs Wuhan Jiangda Women",
+      "description": "Football • AFC Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137954_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
     {
       "id": 419,
-      "title": "Janakpur Bolts Vs Kathmandu Gorkhas",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138293_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "India A Vs Pakistan Shaheens",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138247_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Hong Kong, China Vs Sri Lanka A",
       "description": "Cricket • ACC Asia Cup Rising Stars 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138248_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Afghanistan A Vs Bangladesh A",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138249_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
