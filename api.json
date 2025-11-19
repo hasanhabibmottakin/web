@@ -2,11 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Vista Riders Vs Royal Champs",
+      "title": "Ajman Titans Vs Quetta Qavalry",
       "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138207_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -16,15 +16,6 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138253_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763598601~acl=/*~id=2e63fbf949cfdcab7185bfb30fcdab6b-1763555400131~hmac=e7efa4f6f65e1f583c49fb565e8d1fc2e78aff972898c67ba15846816b64221f",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Ajman Titans Vs Quetta Qavalry",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138207_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -58,24 +49,6 @@
   "Live Event (NOT_STARTED)": [
     {
       "id": 419,
-      "title": "Royal Champs Vs Deccan Gladiators",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138208_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Leeward Islands Hurricanes Vs Windward Islands Volcanoes",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138046_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Juventus Women Vs Olympique Lyonnais Women",
       "description": "Football • UEFA Women's Champions League 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137584_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -88,6 +61,33 @@
       "title": "Vfl Wolfsburg Women Vs Manchester United Women",
       "description": "Football • UEFA Women's Champions League 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137583_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Royal Champs Vs Deccan Gladiators",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138208_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Uae Bulls Vs Vista Riders",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138209_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Leeward Islands Hurricanes Vs Windward Islands Volcanoes",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138046_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -115,15 +115,6 @@
       "title": "Valerenga Fotball Women Vs Skn St. Polten Women",
       "description": "Football • UEFA Women's Champions League 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137585_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Uae Bulls Vs Vista Riders",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138209_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -238,18 +229,18 @@
     },
     {
       "id": 419,
-      "title": "Featured Groups   Day 1",
-      "description": "Golf • The RSM Classic",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138271_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Peterborough United Vs Stockport County",
+      "description": "Football • League One 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135965_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Peterborough United Vs Stockport County",
-      "description": "Football • League One 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135965_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Featured Groups   Day 1",
+      "description": "Golf • The RSM Classic",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138271_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -280,18 +271,18 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Quetta Qavalry Vs Northern Warriors",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138203_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Netherlands Women Vs United Arab Emirates Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138075_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    },
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "Oman Vs India A",
@@ -333,6 +324,15 @@
       "title": "Northern Warriors Vs Aspin Stallions",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138205_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Vista Riders Vs Royal Champs",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
