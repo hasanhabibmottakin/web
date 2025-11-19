@@ -2,20 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Sudurpaschim Royals Vs Kathmandu Gorkhas",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138296_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Northern Warriors Vs Aspin Stallions",
+      "title": "Vista Riders Vs Royal Champs",
       "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138205_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138205_english_hls_d408a6174261368_1ta-di_h264/index.m3u8",
+      "videoSource": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8",
       "isFree": false
     },
     {
@@ -44,27 +35,9 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Melbourne City Women Vs Ho Chi Minh City Women’s Fc",
-      "description": "Football • AFC Women's Champions League 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137959_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137959_english_hls_ea8e56fc6b34286_1ta-di_h264/index.m3u8",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "Royal Champs Vs Vista Riders",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Sri Lanka A Vs Bangladesh A",
@@ -79,6 +52,15 @@
       "title": "Ajman Titans Vs Quetta Qavalry",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138207_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Royal Champs Vs Deccan Gladiators",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138208_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -139,15 +121,6 @@
     },
     {
       "id": 419,
-      "title": "Royal Champs Vs Deccan Gladiators",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138208_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Papua New Guinea Women Vs United Arab Emirates Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138086_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -202,18 +175,18 @@
     },
     {
       "id": 419,
-      "title": "East Bengal Vs Wuhan Jiangda Women",
-      "description": "Football • AFC Women's Champions League 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137954_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Aspin Stallions Vs Ajman Titans",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138210_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Aspin Stallions Vs Ajman Titans",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138210_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "East Bengal Vs Wuhan Jiangda Women",
+      "description": "Football • AFC Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137954_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -289,6 +262,24 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Indonesia Vs Bahrain",
+      "description": "Cricket • Bahrain tour of Indonesia, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138010_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Thailand Women Vs Papua New Guinea Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138088_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
@@ -333,6 +324,15 @@
       "title": "Afghanistan A Vs Hong Kong, China",
       "description": "Cricket • ACC Asia Cup Rising Stars 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138252_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Northern Warriors Vs Aspin Stallions",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138205_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
