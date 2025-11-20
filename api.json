@@ -2,11 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Aspin Stallions Vs Ajman Titans",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138210_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Fc Twente Women Vs Club Atletico De Madrid Femenino",
+      "description": "Football • UEFA Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137588_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138210_english_hls_bef25f35d629850_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137588_english_hls_92c6dd934059069_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -26,18 +26,18 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138270_english_hls_b108af771a22222_1ta-di_h264/index.m3u8",
       "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Aspin Stallions Vs Ajman Titans",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138210_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138210_english_hls_bef25f35d629850_1ta-di_h264/index.m3u8",
+      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "Fc Twente Women Vs Club Atletico De Madrid Femenino",
-      "description": "Football • UEFA Women's Champions League 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137588_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Bangladesh A Vs India A",
@@ -76,6 +76,24 @@
     },
     {
       "id": 419,
+      "title": "Uae Bulls Vs Royal Champs",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138213_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Indonesia Vs Bahrain",
+      "description": "Cricket • Bahrain tour of Indonesia, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138010_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Chelsea F.c. Women Vs Barcelona Women",
       "description": "Football • UEFA Women's Champions League 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137589_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -97,15 +115,6 @@
       "title": "Paris Saint Germain Women Vs Bayern Munich Women",
       "description": "Football • UEFA Women's Champions League 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137590_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Indonesia Vs Bahrain",
-      "description": "Cricket • Bahrain tour of Indonesia, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138010_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -148,15 +157,6 @@
     },
     {
       "id": 419,
-      "title": "Uae Bulls Vs Royal Champs",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138213_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Pokhara Avengers Vs Sudurpaschim Royals",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138298_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -166,18 +166,18 @@
     },
     {
       "id": 419,
-      "title": "Peterborough United Vs Stockport County",
-      "description": "Football • League One 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135965_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "West Indies Under 19 Vs England Under 19",
+      "description": "Cricket • England Under-19 tour of West Indies, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138038_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "West Indies Under 19 Vs England Under 19",
-      "description": "Cricket • England Under-19 tour of West Indies, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138038_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Peterborough United Vs Stockport County",
+      "description": "Football • League One 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135965_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -205,6 +205,33 @@
       "title": "Al Ahli Saudi Fc Vs Al Qadsiah Fc",
       "description": "Football • Roshn Saudi League 2025-2026",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138429_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Valencia Cf Vs Levante",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130957_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Preston North End F.c. Vs Blackburn Rovers F.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136966_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Trinidad & Tobago Red Force Vs Jamaica Scorpions",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138049_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -247,36 +274,18 @@
     },
     {
       "id": 419,
-      "title": "Valencia Cf Vs Levante",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130957_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Preston North End F.c. Vs Blackburn Rovers F.c.",
-      "description": "Football • EFL Championship 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136966_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Trinidad & Tobago Red Force Vs Jamaica Scorpions",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138049_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Las Palmas Vs Albacete",
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "New Zealand Vs West Indies",
+      "description": "Cricket • West Indies tour of New Zealand, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137695_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -292,33 +301,24 @@
     },
     {
       "id": 419,
-      "title": "New Zealand Vs West Indies",
-      "description": "Cricket • West Indies tour of New Zealand, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137695_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "New South Wales Vs Tasmania",
+      "description": "Cricket • Sheffield Shield, 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134026_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "World Feed   Day 2",
+      "description": "Golf • The RSM Classic",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138272_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
-    {
-      "id": 419,
-      "title": "Sri Lanka A Vs Bangladesh A",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138253_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Ajman Titans Vs Quetta Qavalry",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138207_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Royal Champs Vs Deccan Gladiators",
