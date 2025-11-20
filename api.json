@@ -11,20 +11,20 @@
     },
     {
       "id": 419,
-      "title": "Thailand Women Vs Netherlands Women",
+      "title": "Scotland Women Vs Uganda Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138073_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138087_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138073_english_hls_07d50909df94591_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138087_english_hls_8f81cf409f65405_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
       "id": 419,
-      "title": "Papua New Guinea Women Vs United Arab Emirates Women",
+      "title": "Namibia Women Vs Tanzania Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138086_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138074_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138086_english_hls_602fbb0b881981_1ta-di_h264/index.m3u8",
+      "videoSource": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
       "isFree": false
     }
   ],
@@ -52,24 +52,6 @@
       "title": "Aspin Stallions Vs Ajman Titans",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138210_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Scotland Women Vs Uganda Women",
-      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138087_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Namibia Women Vs Tanzania Women",
-      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138074_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -202,6 +184,15 @@
     },
     {
       "id": 419,
+      "title": "Deccan Gladiators Vs Quetta Qavalry",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138211_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Featured Groups   Day 1",
       "description": "Golf • The RSM Classic",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138271_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -220,9 +211,9 @@
     },
     {
       "id": 419,
-      "title": "Deccan Gladiators Vs Quetta Qavalry",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138211_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Pokhara Avengers Vs Sudurpaschim Royals",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138298_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -232,15 +223,6 @@
       "title": "Practice 1",
       "description": "Formula 1 • F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118486_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Pokhara Avengers Vs Sudurpaschim Royals",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138298_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -274,24 +256,42 @@
     },
     {
       "id": 419,
+      "title": "Pakistan Shaheens Vs Sri Lanka A",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138255_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Qualifying Session",
       "description": "Motorsports • F1 ACADEMY LAS VEGAS 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119137_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "England Under 19 Vs West Indies Under 19",
+      "title": "West Indies Under 19 Vs England Under 19",
       "description": "Cricket • England Under-19 tour of West Indies, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138042_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138038_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
+    {
+      "id": 419,
+      "title": "Uae Bulls Vs Royal Champs",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138213_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "West Indies Vs New Zealand",
