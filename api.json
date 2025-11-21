@@ -2,24 +2,6 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Pakistan Shaheens Vs Sri Lanka A",
-      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138255_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763771401~acl=/*~id=7cfc04ce41ebfabebf4549de811a1952-1763728200119~hmac=a933f3b99a396e9b696f7d282ef41596b2ceb02b0ca4d15ea829189b9a7a82b1",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Uae Bulls Vs Royal Champs",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138213_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138213_english_hls_d53cac4a6173665_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "England Under 19 Vs West Indies Under 19",
       "description": "Cricket • England Under-19 tour of West Indies, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138038_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -43,6 +25,15 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138049_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138049_english_hls_8f4e48496b44516_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Las Palmas Vs Albacete",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138066_english_hls_4526c0323122802_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -85,24 +76,6 @@
     },
     {
       "id": 419,
-      "title": "Northern Warriors Vs Deccan Gladiators",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138215_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "New South Wales Vs Tasmania",
-      "description": "Cricket • Sheffield Shield, 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134026_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Valencia Cf Vs Levante",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130957_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -121,9 +94,27 @@
     },
     {
       "id": 419,
+      "title": "Northern Warriors Vs Deccan Gladiators",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138215_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Quetta Qavalry Vs Uae Bulls",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138216_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "New South Wales Vs Tasmania",
+      "description": "Cricket • Sheffield Shield, 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134026_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -169,15 +160,6 @@
       "title": "Coventry City Football Club Vs West Bromwich Albion F.c.",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136965_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Las Palmas Vs Albacete",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -301,9 +283,9 @@
     },
     {
       "id": 419,
-      "title": "Second Race",
-      "description": "Motorsports • F1 ACADEMY LAS VEGAS 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119139_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Thailand Women Vs Namibia Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138091_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -333,6 +315,24 @@
       "title": "Northern Warriors Vs Ajman Titans",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138212_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Pakistan Shaheens Vs Sri Lanka A",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138255_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Uae Bulls Vs Royal Champs",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138213_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
