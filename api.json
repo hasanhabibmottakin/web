@@ -2,6 +2,24 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
+      "title": "Qualifying",
+      "description": "Formula 1 • F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118489_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://d3seoyp01tmqda.cloudfront.net/out/v1/6c2d5192a8b44125819a58894b0411b0/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Bangladesh Vs Ireland",
+      "description": "Cricket • Ireland tour of Bangladesh, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138238_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c3566_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
       "title": "West Indies Vs New Zealand",
       "description": "Cricket • West Indies tour of New Zealand, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137695_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -20,11 +38,20 @@
     },
     {
       "id": 419,
-      "title": "First Race",
-      "description": "Motorsports • F1 ACADEMY LAS VEGAS 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119138_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "South Australia Vs Western Australia",
+      "description": "Cricket • Sheffield Shield, 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134028_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/119138_english_hls_be307f317641311_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40653330_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Queensland Vs Victoria",
+      "description": "Cricket • Sheffield Shield, 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134027_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f224160_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -52,24 +79,6 @@
       "title": "Quetta Qavalry Vs Uae Bulls",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138216_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "South Australia Vs Western Australia",
-      "description": "Cricket • Sheffield Shield, 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134028_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Queensland Vs Victoria",
-      "description": "Cricket • Sheffield Shield, 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134027_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -184,15 +193,6 @@
     },
     {
       "id": 419,
-      "title": "Qualifying",
-      "description": "Formula 1 • F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118489_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Thailand Women Vs Namibia Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138091_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -220,27 +220,9 @@
     },
     {
       "id": 419,
-      "title": "Second Race",
-      "description": "Motorsports • F1 ACADEMY LAS VEGAS 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119139_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "India Vs Korea",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138411_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "East Bengal Vs Pfc Nasaf",
-      "description": "Football • AFC Women's Champions League 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137960_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -256,9 +238,18 @@
     },
     {
       "id": 419,
-      "title": "Race",
-      "description": "Formula 1 • F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118490_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "East Bengal Vs Pfc Nasaf",
+      "description": "Football • AFC Women's Champions League 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137960_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Second Race",
+      "description": "Motorsports • F1 ACADEMY LAS VEGAS 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119139_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -268,6 +259,15 @@
       "title": "New Zealand Vs Malaysia",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138412_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Race",
+      "description": "Formula 1 • F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118490_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -286,6 +286,15 @@
       "title": "Sheffield Wednesday F.c. Vs Sheffield United F.c.",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136967_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Bangladesh A Vs Pakistan A",
+      "description": "Cricket • ACC Asia Cup Rising Stars 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138256_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
