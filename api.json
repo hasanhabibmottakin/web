@@ -8,15 +8,6 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130958_english_hls_725c0bef3b63390_1adfreeta-di_h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "World Feed   Day 3",
-      "description": "Golf • The RSM Classic",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138274_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138274_english_hls_4bd40f09823651_1ta-di_h264/index.m3u8",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -130,18 +121,18 @@
     },
     {
       "id": 419,
-      "title": "Belgium Vs Canada",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138413_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Real Betis Vs Girona Fc",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130950_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Real Betis Vs Girona Fc",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130950_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Belgium Vs Canada",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138413_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -268,6 +259,15 @@
       "title": "Korea Vs New Zealand",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138414_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Sudurpaschim Royals Vs Karnali Yaks",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138302_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
