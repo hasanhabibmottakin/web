@@ -2,11 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Thailand Vs Malaysia",
-      "description": "Cricket • Mini SEA Games Men's T20, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138451_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Biratnagar Kings Vs Janakpur Bolts",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138301_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138451_english_hls_16f67a207438913_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138301_english_hls_18272100d893851_1adfreeta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -38,15 +38,6 @@
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "Janakpur Bolts Vs Biratnagar Kings",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138301_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Bahrain Vs Malaysia A",
@@ -112,6 +103,15 @@
     },
     {
       "id": 419,
+      "title": "Rcd Espanyol Vs Sevilla Fc",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130952_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Korea Vs New Zealand",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138414_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -124,15 +124,6 @@
       "title": "Belgium Vs India",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138415_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Rcd Espanyol Vs Sevilla Fc",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130952_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -157,15 +148,6 @@
     },
     {
       "id": 419,
-      "title": "Real Sociedad B Vs Real Valladolid",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138068_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "United Arab Emirates Women Vs Uganda Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138093_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -178,6 +160,15 @@
       "title": "Thailand Women Vs Tanzania Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138092_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Real Sociedad B Vs Real Valladolid",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138068_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -342,6 +333,15 @@
       "title": "Northern Warriors Vs Vista Riders",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138219_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Thailand Vs Malaysia",
+      "description": "Cricket • Mini SEA Games Men's T20, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138451_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
