@@ -11,24 +11,33 @@
     },
     {
       "id": 419,
+      "title": "West Indies Under 19 Vs England Under 19",
+      "description": "Cricket • England Under-19 tour of West Indies, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138039_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138039_english_hls_fcb862dcd94142_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
       "title": "Victoria Vs Queensland",
       "description": "Cricket • Sheffield Shield, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134027_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8",
       "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Malaysia Vs Canada",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138416_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138416_english_hls_e53ad3684370112_1ta-di_h264/index.m3u8",
+      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "West Indies Under 19 Vs England Under 19",
-      "description": "Cricket • England Under-19 tour of West Indies, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138039_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "Nasaf Vs Tractor",
@@ -103,9 +112,9 @@
     },
     {
       "id": 419,
-      "title": "Malaysia Vs Canada",
+      "title": "Belgium Vs India",
       "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138416_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138415_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -139,18 +148,18 @@
     },
     {
       "id": 419,
-      "title": "Real Sociedad B Vs Real Valladolid",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138068_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Melbourne City Vs Johor Darul Ta'zim",
+      "description": "Football • AFC Champions League Elite 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136019_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Melbourne City Vs Johor Darul Ta'zim",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136019_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Real Sociedad B Vs Real Valladolid",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138068_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -193,18 +202,18 @@
     },
     {
       "id": 419,
-      "title": "Chengdu Rongcheng Vs Sanfrecce Hiroshima",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136022_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Deccan Gladiators Vs Aspin Stallions",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138221_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Deccan Gladiators Vs Aspin Stallions",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138221_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Chengdu Rongcheng Vs Sanfrecce Hiroshima",
+      "description": "Football • AFC Champions League Elite 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136022_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -268,15 +277,6 @@
       "title": "Southampton F.c. Vs Leicester City F.c.",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136968_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Thailand Women Vs Uganda Women",
-      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138079_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
