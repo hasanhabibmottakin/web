@@ -11,15 +11,6 @@
     },
     {
       "id": 419,
-      "title": "Nasaf Vs Tractor",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136067_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136067_english_hls_491b97c74096589_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "Al Duhail Vs Al Ittihad",
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136069_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -40,6 +31,15 @@
   "Live Event (NOT_STARTED)": [
     {
       "id": 419,
+      "title": "Vista Riders Vs Ajman Titans",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138220_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Al Ahli Saudi Fc Vs Sharjah",
       "description": "Football • AFC Champions League Elite 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136070_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -52,15 +52,6 @@
       "title": "Rcd Espanyol Vs Sevilla Fc",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130952_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Vista Riders Vs Ajman Titans",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138220_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -121,9 +112,9 @@
     },
     {
       "id": 419,
-      "title": "Belgium Vs India",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138415_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Deccan Gladiators Vs Aspin Stallions",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138221_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -139,9 +130,9 @@
     },
     {
       "id": 419,
-      "title": "Deccan Gladiators Vs Aspin Stallions",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138221_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Belgium Vs India",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138415_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -238,18 +229,18 @@
     },
     {
       "id": 419,
-      "title": "Jamaica Scorpions Vs Barbados Pride",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138055_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Southampton F.c. Vs Leicester City F.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136968_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Southampton F.c. Vs Leicester City F.c.",
-      "description": "Football • EFL Championship 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136968_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Jamaica Scorpions Vs Barbados Pride",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138055_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -289,18 +280,27 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Malaysia Vs Canada",
+      "title": "Canada Vs New Zealand",
       "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138416_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138417_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
+    {
+      "id": 419,
+      "title": "Uae Bulls Vs Northern Warriors",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138222_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "Pakistan Shaheens Vs Bangladesh A",
