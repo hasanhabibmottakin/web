@@ -2,11 +2,11 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Biratnagar Kings Vs Janakpur Bolts",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138301_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Belgium Vs India",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138415_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138301_english_hls_18272100d893851_1adfreeta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138415_english_hls_9fc00b3f8263488_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -20,11 +20,11 @@
     },
     {
       "id": 419,
-      "title": "Korea Vs New Zealand",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138414_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Sudurpaschim Royals Vs Karnali Yaks",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138302_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138414_english_hls_f00708036f82711_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138302_english_hls_13f158caa114542_1ta-di_h264/index.m3u8",
       "isFree": false
     },
     {
@@ -47,15 +47,6 @@
     }
   ],
   "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
-      "title": "Sudurpaschim Royals Vs Karnali Yaks",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138302_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
     {
       "id": 419,
       "title": "West Indies Under 19 Vs England Under 19",
@@ -106,15 +97,6 @@
       "title": "Rcd Espanyol Vs Sevilla Fc",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130952_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Belgium Vs India",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138415_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -202,18 +184,9 @@
     },
     {
       "id": 419,
-      "title": "Shanghai Port Vs Seoul",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136021_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Gangwon Vs Machida Zelvia",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136020_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Vista Riders Vs Ajman Titans",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138220_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -229,9 +202,18 @@
     },
     {
       "id": 419,
-      "title": "Vista Riders Vs Ajman Titans",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138220_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Shanghai Port Vs Seoul",
+      "description": "Football • AFC Champions League Elite 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136021_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Gangwon Vs Machida Zelvia",
+      "description": "Football • AFC Champions League Elite 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136020_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -286,6 +268,24 @@
       "title": "Sepahan Vs Al Hussein",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136124_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Al Hilal Sfc Vs Al Shorta",
+      "description": "Football • AFC Champions League Elite 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136072_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Jamaica Scorpions Vs Barbados Pride",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138055_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
