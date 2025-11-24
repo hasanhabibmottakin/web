@@ -2,20 +2,20 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Trinidad & Tobago Red Force Vs Guyana Harpy Eagles",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138052_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "New South Wales Vs Tasmania",
       "description": "Cricket • Sheffield Shield, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134026_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/linear/hls/pb/event/IjqlXMDLRwK0gMXR5T5EqA/stream/6b2400e8-5761-43af-852b-ad0a813b8f94:TPE/master.m3u8?hdnea=exp=1763965802~acl=/*~id=7a7de14636e4327c5e51290b614d9273-1763922600396~hmac=3cf695cc3f717ec09b301e7a3ef18e5e2f13edfcd5c162479710219a2ca4db3c",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Trinidad & Tobago Red Force Vs Guyana Harpy Eagles",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138052_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
