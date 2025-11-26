@@ -29,33 +29,6 @@
     },
     {
       "id": 419,
-      "title": "Shanghai Shenhua Vs Vissel Kobe",
-      "description": "Football • AFC Champions League Elite 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136024_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136024_english_hls_885f7872383675_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Lion City Sailors Vs Persib Bandung",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136172_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136172_english_hls_e4a66a9e9085910_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Bangkok United Vs Selangor",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136171_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136171_english_hls_682ed1b95d75759_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "Andijan Vs Arkadag",
       "description": "Football • AFC Champions League Two 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136112_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -85,9 +58,18 @@
     },
     {
       "id": 419,
-      "title": "West Bromwich Albion F.c. Vs Birmingham City F.c.",
-      "description": "Football • EFL Championship 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136969_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Al Zawraa Sc Vs Fc Goa",
+      "description": "Football • AFC Champions League Two 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136136_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Esteghlal Fc Vs Al Wasl",
+      "description": "Football • AFC Champions League Two 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136100_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -103,9 +85,27 @@
     },
     {
       "id": 419,
+      "title": "West Bromwich Albion F.c. Vs Birmingham City F.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136969_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Bahrain Vs Thailand",
       "description": "Cricket • Mini SEA Games Men's T20, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138452_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Uae Bulls Vs Aspin Stallions",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138226_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -130,33 +130,6 @@
     },
     {
       "id": 419,
-      "title": "Uae Bulls Vs Aspin Stallions",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138226_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Al Zawraa Sc Vs Fc Goa",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136136_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Esteghlal Fc Vs Al Wasl",
-      "description": "Football • AFC Champions League Two 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136100_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Korea Vs Canada",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138420_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -175,18 +148,18 @@
     },
     {
       "id": 419,
-      "title": "India Vs New Zealand",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138421_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Northern Warriors Vs Royal Champs",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138227_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Northern Warriors Vs Royal Champs",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138227_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "India Vs New Zealand",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138421_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -307,18 +280,45 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 419,
-      "title": "Canada Vs New Zealand",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138417_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Malaysia Vs Thailand",
+      "description": "Cricket • Mini SEA Games Men's T20, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138454_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
+    {
+      "id": 419,
+      "title": "Uganda Women Vs Tanzania Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138098_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Thailand Women Vs United Arab Emirates Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138097_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Day 2",
+      "description": "Golf • BMW Australian PGA Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138611_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
       "title": "Ajman Titans Vs Vista Riders",
