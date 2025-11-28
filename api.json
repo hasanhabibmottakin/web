@@ -8,17 +8,15 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138026_english_hls_07e5414ac061051_1ta-di_h264/index.m3u8",
       "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
+    },
     {
       "id": 419,
       "title": "Getafe Cf Vs Elche Cf",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130967_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130967_english_hls_8856b4cfde53986_1ta-di_h264/index.m3u8",
+      "isFree": false
     },
     {
       "id": 419,
@@ -26,9 +24,20 @@
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136972_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136972_english_hls_f3f5b57b8458088_1ta-di_h264/index.m3u8",
+      "isFree": false
     },
+    {
+      "id": 419,
+      "title": "Sporting De Gijón Vs Fc Andorra",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138069_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138069_english_hls_143f28d1c397945_1ta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "Bangladesh Vs Ireland",
@@ -43,15 +52,6 @@
       "title": "Quetta Qavalry Vs Aspin Stallions",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138231_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Sporting De Gijón Vs Fc Andorra",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138069_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -103,15 +103,6 @@
     },
     {
       "id": 419,
-      "title": "New Zealand Vs Belgium",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138424_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "West Indies Under 19 Vs England Under 19",
       "description": "Cricket • England Under-19 tour of West Indies, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138041_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -124,6 +115,15 @@
       "title": "Leicester City F.c. Vs Sheffield United F.c.",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136971_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "New Zealand Vs Belgium",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138424_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -220,18 +220,18 @@
     },
     {
       "id": 419,
-      "title": "Day 3",
-      "description": "Golf • BMW Australian PGA Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Real Valladolid Vs Málaga",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138071_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Real Valladolid Vs Málaga",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138071_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 3",
+      "description": "Golf • BMW Australian PGA Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
