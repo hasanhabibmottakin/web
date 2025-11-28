@@ -26,15 +26,6 @@
       "playerType": "jwplayer",
       "videoSource": "https://india-mpv2.fancode.com/out/v1/ap-south-1/138082_english_138082/adfree-h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Day 2",
-      "description": "Golf • BMW Australian PGA Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138611_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138611_english_hls_311d8135649674_1ta-di_h264/index.m3u8",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -121,7 +112,7 @@
     },
     {
       "id": 419,
-      "title": "Sporting De Gijón Vs Andorra",
+      "title": "Sporting De Gijón Vs Fc Andorra",
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138069_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
@@ -139,15 +130,6 @@
     },
     {
       "id": 419,
-      "title": "Bangladesh Vs Ireland",
-      "description": "Cricket • Ireland tour of Bangladesh, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138240_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Canada Vs India",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138423_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -157,9 +139,45 @@
     },
     {
       "id": 419,
+      "title": "Bangladesh Vs Ireland",
+      "description": "Cricket • Ireland tour of Bangladesh, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138240_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "New Zealand Vs Belgium",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138424_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Sudurpaschim Royals Vs Janakpur Bolts",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138310_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Quetta Qavalry Vs Tbc",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138231_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Malaysia Vs Korea",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138425_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -211,24 +229,6 @@
     },
     {
       "id": 419,
-      "title": "Quetta Qavalry Vs Tbc",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138231_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "New Zealand Vs Belgium",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138424_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Day 3",
       "description": "Golf • BMW Australian PGA Championship",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -241,15 +241,6 @@
       "title": "Leicester City F.c. Vs Sheffield United F.c.",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136971_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Malaysia Vs Korea",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138425_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -280,14 +271,41 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Al Hilal Sfc Vs Al Fateh Sc",
+      "description": "Football • Saudi Kings Cup 2025-2026",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138027_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "West Bromwich Albion F.c. Vs Swansea City A.f.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136973_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Fc Barcelona Vs Deportivo Alaves",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130964_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
     {
       "id": 419,
-      "title": "Lumbini Lions Vs Sudurpaschim Royals",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138305_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Jamaica Scorpions Vs Windward Islands Volcanoes",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138058_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -324,24 +342,6 @@
       "title": "Northern Warriors Vs Royal Champs",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138227_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Malaysia Vs Malaysia A",
-      "description": "Cricket • Mini SEA Games Men's T20, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138459_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Malaysia Vs Thailand",
-      "description": "Cricket • Mini SEA Games Men's T20, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138454_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
