@@ -29,24 +29,6 @@
     },
     {
       "id": 441,
-      "title": "Sprint",
-      "description": "Formula 1 • F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118493_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 441,
-      "title": "Ireland Vs Bangladesh",
-      "description": "Cricket • Ireland tour of Bangladesh, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138240_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 441,
       "title": "Uae Bulls Vs Ajman Titans",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138232_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -65,51 +47,24 @@
     },
     {
       "id": 441,
-      "title": "Al Hilal Sfc Vs Al Fateh Sc",
-      "description": "Football • Saudi Kings Cup 2025-2026",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138027_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138027_english_hls_b2646aeb0368363_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 441,
-      "title": "West Bromwich Albion F.c. Vs Swansea City A.f.c.",
-      "description": "Football • EFL Championship 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136973_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/136973_english_hls_02108dda7f25947_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 441,
-      "title": "Day 3",
-      "description": "Golf • Andalucia Costa Del Sol Open De Espana 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137197_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/137197_english_hls_b87cef92fc45166_1ta-di_h264/index.m3u8",
-      "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
-    {
-      "id": 441,
-      "title": "Tbc Vs Tbc",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138233_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 441,
       "title": "Levante Vs Athletic Club",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130965_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130965_english_hls_dbc114fd6741889_1ta-di_h264/index.m3u8",
+      "isFree": false
     },
+    {
+      "id": 441,
+      "title": "Sprint Race",
+      "description": "Motorsports • F2 QATAR 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119075_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/119075_english_hls_75d28fd71e40814_1ta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 441,
       "title": "Al Ittihad Vs Al Shabab Fc",
@@ -121,9 +76,27 @@
     },
     {
       "id": 441,
-      "title": "Atletico De Madrid Vs Real Oviedo",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130968_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Quetta Qavalry Vs Tbc",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138233_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Albacete Vs Deportivo De La Coruña",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Trinidad & Tobago Red Force Vs Barbados Pride",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -133,6 +106,15 @@
       "title": "Tbc Vs Tbc",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138234_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Atletico De Madrid Vs Real Oviedo",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130968_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -202,18 +184,9 @@
     },
     {
       "id": 441,
-      "title": "Albacete Vs Deportivo De La Coruña",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 441,
-      "title": "Trinidad & Tobago Red Force Vs Barbados Pride",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Tbc Vs Tbc",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -231,7 +204,16 @@
       "id": 441,
       "title": "Tbc Vs Tbc",
       "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138427_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Real Sociedad Vs Villarreal Cf",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130963_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -274,27 +256,9 @@
     },
     {
       "id": 441,
-      "title": "Tbc Vs Tbc",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138427_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 441,
-      "title": "Sprint Race",
-      "description": "Motorsports • F2 QATAR 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119075_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 441,
-      "title": "Real Sociedad Vs Villarreal Cf",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130963_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Qualifying",
+      "description": "Formula 1 • F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -337,15 +301,51 @@
     },
     {
       "id": 441,
-      "title": "Qualifying",
-      "description": "Formula 1 • F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 4",
+      "description": "Golf • BMW Australian PGA Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138613_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Girona Fc Vs Real Madrid",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130960_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     }
   ],
   "Live Event (COMPLETED)": [
+    {
+      "id": 441,
+      "title": "West Bromwich Albion F.c. Vs Swansea City A.f.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136973_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Deccan Gladiators Vs Vista Riders",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138230_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "Ireland Vs Bangladesh",
+      "description": "Cricket • Ireland tour of Bangladesh, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138240_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
     {
       "id": 441,
       "title": "Quetta Qavalry Vs Aspin Stallions",
