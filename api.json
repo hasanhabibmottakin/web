@@ -20,11 +20,11 @@
     },
     {
       "id": 419,
-      "title": "Canada Vs India",
+      "title": "New Zealand Vs Belgium",
       "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138423_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138424_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138423_english_hls_33282affa888891_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138424_english_hls_75ec0c50ed91554_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -148,15 +148,6 @@
     },
     {
       "id": 419,
-      "title": "New Zealand Vs Belgium",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138424_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Malaysia Vs Korea",
       "description": "Hockey • Sultan Azlan Shah Cup",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138425_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -193,18 +184,18 @@
     },
     {
       "id": 419,
-      "title": "Albacete Vs Deportivo De La Coruña",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Malaysia Women Vs Hong Kong, China Women",
+      "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138658_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Malaysia Women Vs Hong Kong, China Women",
-      "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138658_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Albacete Vs Deportivo De La Coruña",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -241,6 +232,15 @@
       "title": "Thailand Women Vs Scotland Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138085_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138233_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -284,8 +284,17 @@
     {
       "id": 419,
       "title": "Tbc Vs Tbc",
-      "description": "Cricket • Abu Dhabi T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138233_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Karnali Yaks Vs Kathmandu Gorkhas",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138311_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -293,8 +302,8 @@
     {
       "id": 419,
       "title": "Tbc Vs Tbc",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "description": "Cricket • Abu Dhabi T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138234_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -319,9 +328,9 @@
     },
     {
       "id": 419,
-      "title": "Karnali Yaks Vs Kathmandu Gorkhas",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138311_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Tbc Vs Tbc",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138427_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -336,15 +345,5 @@
       "isFree": true
     }
   ],
-  "Live Event (COMPLETED)": [
-    {
-      "id": 419,
-      "title": "Day 3",
-      "description": "Golf • BMW Australian PGA Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    }
-  ]
+  "Live Event (COMPLETED)": []
 }
