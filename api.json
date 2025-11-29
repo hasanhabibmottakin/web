@@ -2,7 +2,7 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Prime Ministers Xi Vs England",
+      "title": "Prime Ministers Xi Vs England Xi",
       "description": "Cricket • England tour of Australia, Tour Match, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138657_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
@@ -25,15 +25,6 @@
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138423_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138423_english_hls_33282affa888891_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Day 3",
-      "description": "Golf • BMW Australian PGA Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138612_english_hls_b03bd9df0899278_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -184,24 +175,6 @@
     },
     {
       "id": 419,
-      "title": "Albacete Vs Deportivo De La Coruña",
-      "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Tbc Vs Tbc",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "United Arab Emirates Women Vs Namibia Women",
       "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138099_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -220,9 +193,9 @@
     },
     {
       "id": 419,
-      "title": "Real Valladolid Vs Málaga",
+      "title": "Albacete Vs Deportivo De La Coruña",
       "description": "Football • LALIGA Hypermotion 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138071_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138070_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -232,6 +205,24 @@
       "title": "Malaysia Women Vs Hong Kong, China Women",
       "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138658_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Real Valladolid Vs Málaga",
+      "description": "Football • LALIGA Hypermotion 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138071_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -301,6 +292,15 @@
     },
     {
       "id": 419,
+      "title": "Tbc Vs Tbc",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Day 3",
       "description": "Golf • Andalucia Costa Del Sol Open De Espana 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137197_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -319,31 +319,32 @@
     },
     {
       "id": 419,
+      "title": "Karnali Yaks Vs Kathmandu Gorkhas",
+      "description": "Cricket • Nepal Premier League, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138311_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
       "title": "Sprint Race",
       "description": "Motorsports • F2 QATAR 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119075_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    },
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 419,
-      "title": "Tbc Vs Tbc",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Qualifying",
-      "description": "Formula 1 • F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118494_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 3",
+      "description": "Golf • BMW Australian PGA Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138612_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     }
-  ],
-  "Live Event (COMPLETED)": []
+  ]
 }
