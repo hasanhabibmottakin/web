@@ -2,11 +2,47 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Trinidad & Tobago Red Force Vs Barbados Pride",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Thailand Vs Bahrain",
+      "description": "Cricket • Mini SEA Games Men's T20, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138455_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138455_english_hls_08e7eb3de053602_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "United Arab Emirates Women Vs Namibia Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138099_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138099_english_hls_b00a5c213332422_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Uganda Women Vs Netherlands Women",
+      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138084_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138084_english_hls_9a7acac1e895672_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Prime Ministers Xi Vs England Xi",
+      "description": "Cricket • England tour of Australia, Tour Match, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138657_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1667962_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Day 4",
+      "description": "Golf • BMW Australian PGA Championship",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138613_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138613_english_hls_6203f1338999020_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -25,33 +61,6 @@
       "title": "Tbc Vs Tbc",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138234_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Bahrain Vs Thailand",
-      "description": "Cricket • Mini SEA Games Men's T20, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138455_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "United Arab Emirates Women Vs Namibia Women",
-      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138099_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Netherlands Women Vs Uganda Women",
-      "description": "Cricket • ICC Women's Emerging Nations Trophy, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138084_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -103,18 +112,27 @@
     },
     {
       "id": 419,
-      "title": "Canada Vs Korea",
-      "description": "Hockey • Sultan Azlan Shah Cup",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Sevilla Fc Vs Real Betis",
+      "description": "Football • LALIGA 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130966_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Sevilla Fc Vs Real Betis",
+      "title": "Rc Celta Vs Rcd Espanyol",
       "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130966_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130969_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Canada Vs Korea",
+      "description": "Hockey • Sultan Azlan Shah Cup",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138426_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -139,9 +157,9 @@
     },
     {
       "id": 419,
-      "title": "Rc Celta Vs Rcd Espanyol",
+      "title": "Girona Fc Vs Real Madrid",
       "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130969_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130960_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -184,15 +202,6 @@
     },
     {
       "id": 419,
-      "title": "Girona Fc Vs Real Madrid",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130960_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Real Zaragoza Vs Leganés",
       "description": "Football • LALIGA Hypermotion 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138072_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -205,15 +214,6 @@
       "title": "Malaysia Vs Bahrain",
       "description": "Cricket • Mini SEA Games Men's T20, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138456_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Day 4",
-      "description": "Golf • BMW Australian PGA Championship",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138613_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -310,6 +310,15 @@
     }
   ],
   "Live Event (COMPLETED)": [
+    {
+      "id": 419,
+      "title": "Trinidad & Tobago Red Force Vs Barbados Pride",
+      "description": "Cricket • CG United Super50 Cup, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
     {
       "id": 419,
       "title": "Ireland Vs Bangladesh",
