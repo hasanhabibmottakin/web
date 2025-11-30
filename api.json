@@ -26,15 +26,6 @@
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130960_bengali_hls_ea3aed568f52131_1ta-di_h264/index.m3u8",
       "isFree": false
-    },
-    {
-      "id": 441,
-      "title": "Rc Celta Vs Rcd Espanyol",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130969_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130969_english_hls_945695c3be75736_1ta-di_h264/index.m3u8",
-      "isFree": false
     }
   ],
   "Live Event (NOT_STARTED)": [
@@ -331,6 +322,15 @@
       "title": "New South Wales Vs Queensland",
       "description": "Cricket • Sheffield Shield, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134030_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 441,
+      "title": "South Australia Vs Tasmania",
+      "description": "Cricket • Sheffield Shield, 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134031_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
