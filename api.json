@@ -334,18 +334,18 @@
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    }
-  ],
-  "Live Event (COMPLETED)": [
+    },
     {
       "id": 441,
-      "title": "Trinidad & Tobago Red Force Vs Barbados Pride",
-      "description": "Cricket • CG United Super50 Cup, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138059_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Day 1",
+      "description": "Golf • Hero World Challenge",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138276_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
-    },
+    }
+  ],
+  "Live Event (COMPLETED)": [
     {
       "id": 441,
       "title": "Quetta Qavalry Vs Uae Bulls",
