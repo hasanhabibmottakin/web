@@ -1,36 +1,8 @@
 {
-  "Live Event (STARTED)": [
-    {
-      "id": 441,
-      "title": "Girona Fc Vs Real Madrid",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130960_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130960_english_hls_858887ec0e9573_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 441,
-      "title": "Girona Fc Vs Real Madrid",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130960_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130960_hindi_hls_9929cf934c72119_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 441,
-      "title": "Girona Fc Vs Real Madrid",
-      "description": "Football • LALIGA 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130960_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/130960_bengali_hls_ea3aed568f52131_1ta-di_h264/index.m3u8",
-      "isFree": false
-    }
-  ],
+  "Live Event (STARTED)": [],
   "Live Event (NOT_STARTED)": [
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Vs Bahrain",
       "description": "Cricket • Mini SEA Games Men's T20, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138456_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -39,7 +11,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Women Vs Hong Kong, China Women",
       "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138659_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -48,7 +20,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "West Indies Under 19 Vs England Under 19",
       "description": "Cricket • England Under-19 tour of West Indies, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138043_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -57,7 +29,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "New Zealand Vs West Indies",
       "description": "Cricket • West Indies tour of New Zealand, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137696_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -66,7 +38,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Rayo Vallecano Vs Valencia Cf",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130962_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -75,7 +47,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Birmingham City F.c. Vs Watford F.c.",
       "description": "Football • EFL Championship 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136970_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -84,7 +56,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Victoria Vs Western Australia",
       "description": "Cricket • One Day Cup, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133942_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -93,7 +65,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Vs Malaysia A",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138460_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -102,7 +74,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Bahrain Vs Thailand",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138461_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -111,7 +83,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Janakpur Bolts Vs Chitwan Rhinos",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138312_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -120,7 +92,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Thailand Vs Malaysia A",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138462_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -129,7 +101,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Bangladesh Vs Ireland",
       "description": "Cricket • Ireland tour of Bangladesh, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138241_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -138,7 +110,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Pokhara Avengers Vs Karnali Yaks",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138313_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -147,7 +119,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Dubai Capitals Vs Desert Vipers",
       "description": "Cricket • DP World ILT20 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138623_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -156,7 +128,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Fc Barcelona Vs Atletico De Madrid",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131011_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -165,7 +137,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Rb Leipzig Vs 1. Fc Magdeburg",
       "description": "Football • DFB Pokal 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138402_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -174,7 +146,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Borussia Dortmund Vs Bayer 04 Leverkusen Ladies",
       "description": "Football • DFB Pokal 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138401_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -183,7 +155,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Women Vs Hong Kong, China Women",
       "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138660_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -192,7 +164,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Bahrain Vs Malaysia A",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138463_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -201,7 +173,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Biratnagar Kings Vs Lumbini Lions",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138314_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -210,7 +182,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Sharjah Warriorz Vs Abu Dhabi Knight Riders",
       "description": "Cricket • DP World ILT20 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138624_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -219,7 +191,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Athletic Club Vs Real Madrid",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131017_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -228,7 +200,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "1. Fc Union Berlin Vs Fc Bayern München",
       "description": "Football • DFB Pokal 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138403_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -237,7 +209,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Victoria Vs Western Australia",
       "description": "Cricket • Sheffield Shield, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134029_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -246,7 +218,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Women Vs Hong Kong, China Women",
       "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138661_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -255,7 +227,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Day 1",
       "description": "Golf • Crown Australian Open 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138618_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -264,7 +236,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Vs Thailand",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138464_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -273,7 +245,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Pokhara Avengers Vs Kathmandu Gorkhas",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138315_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -282,7 +254,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Malaysia Vs Bahrain",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138465_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -291,7 +263,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Day 2",
       "description": "Golf • Crown Australian Open 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138614_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -300,7 +272,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Sudurpaschim Royals Vs Chitwan Rhinos",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138316_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -309,7 +281,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Gulf Giants Vs Mi Emirates",
       "description": "Cricket • DP World ILT20 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138625_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -318,7 +290,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "New South Wales Vs Queensland",
       "description": "Cricket • Sheffield Shield, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134030_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -327,7 +299,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "South Australia Vs Tasmania",
       "description": "Cricket • Sheffield Shield, 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134031_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -336,10 +308,19 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Day 1",
       "description": "Golf • Hero World Challenge",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138276_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Day 3",
+      "description": "Golf • Crown Australian Open 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138615_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -347,7 +328,7 @@
   ],
   "Live Event (COMPLETED)": [
     {
-      "id": 441,
+      "id": 419,
       "title": "Quetta Qavalry Vs Uae Bulls",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138233_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -356,7 +337,7 @@
       "isFree": true
     },
     {
-      "id": 441,
+      "id": 419,
       "title": "Uae Bulls Vs Aspin Stallions",
       "description": "Cricket • Abu Dhabi T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138234_CASACARDS_PARTNER_16_9_1920_1080.png",
