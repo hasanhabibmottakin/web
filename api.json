@@ -1,15 +1,5 @@
 {
-  "Live Event (STARTED)": [
-    {
-      "id": 419,
-      "title": "Malaysia Women Vs Hong Kong, China Women",
-      "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138659_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138659_english_hls_b2ebe3a98171584_1ta-di_h264/index.m3u8",
-      "isFree": false
-    }
-  ],
+  "Live Event (STARTED)": [],
   "Live Event (NOT_STARTED)": [
     {
       "id": 419,
@@ -85,18 +75,18 @@
     },
     {
       "id": 419,
-      "title": "Thailand Vs Malaysia A",
-      "description": "Cricket • Mini SEA Games Men's T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138462_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Bangladesh Vs Ireland",
+      "description": "Cricket • Ireland tour of Bangladesh, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138241_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
     },
     {
       "id": 419,
-      "title": "Bangladesh Vs Ireland",
-      "description": "Cricket • Ireland tour of Bangladesh, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138241_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "title": "Thailand Vs Malaysia A",
+      "description": "Cricket • Mini SEA Games Men's T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138462_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -322,6 +312,15 @@
       "title": "Lumbini Lions Vs Janakpur Bolts",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138317_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Desert Vipers Vs Abu Dhabi Knight Riders",
+      "description": "Cricket • DP World ILT20 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138626_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
