@@ -2,38 +2,20 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "New Zealand Vs West Indies",
-      "description": "Cricket • West Indies tour of New Zealand, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137696_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764678602~acl=/*~id=a8045838512e6849fc31a3ac2e9a7aa7-1764635400129~hmac=427646c852626c27737e9ccb52da9c3566581057f39c55a1542ae2d341a24707",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Victoria Vs Western Australia",
-      "description": "Cricket • One Day Cup, 2025-26",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133942_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/133942_english_hls_924fd5469f81107_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
-      "title": "Bahrain Vs Thailand",
-      "description": "Cricket • Mini SEA Games Men's T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138461_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138461_english_hls_3af390809849774_1ta-di_h264/index.m3u8",
-      "isFree": false
-    },
-    {
-      "id": 419,
       "title": "Chitwan Rhinos Vs Janakpur Bolts",
       "description": "Cricket • Nepal Premier League, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138312_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138312_english_hls_0045c9ba337372_1ta-di_h264/index.m3u8",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Bahrain Vs Malaysia",
+      "description": "Cricket • Mini SEA Games Men's T10, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138462_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138462_english_hls_5c92f8eac43956_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -52,15 +34,6 @@
       "title": "Dubai Capitals Vs Desert Vipers",
       "description": "Cricket • DP World ILT20 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138623_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Bahrain Vs Malaysia",
-      "description": "Cricket • Mini SEA Games Men's T10, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138462_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -340,6 +313,24 @@
       "title": "Real Oviedo Vs Rcd Mallorca",
       "description": "Football • LALIGA 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130976_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Hull City Vs Middlesbrough F.c.",
+      "description": "Football • EFL Championship 2025-26",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136976_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Qualifying Session",
+      "description": "Motorsports • F2 ABU DHABI 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121613_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
