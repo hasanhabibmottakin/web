@@ -2,24 +2,15 @@
   "Live Event (STARTED)": [
     {
       "id": 419,
-      "title": "Pokhara Avengers Vs Karnali Yaks",
-      "description": "Cricket • Nepal Premier League, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138313_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138313_english_hls_c269d77b6446709_1ta-di_h264/index.m3u8",
-      "isFree": false
-    }
-  ],
-  "Live Event (NOT_STARTED)": [
-    {
-      "id": 419,
       "title": "Dubai Capitals Vs Desert Vipers",
       "description": "Cricket • DP World ILT20 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138623_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138623_english_hls_2d87ea763b91022_1ta-di_h264/index.m3u8",
+      "isFree": false
+    }
+  ],
+  "Live Event (NOT_STARTED)": [
     {
       "id": 419,
       "title": "Fc Barcelona Vs Atletico De Madrid",
@@ -322,6 +313,15 @@
       "title": "Day 2",
       "description": "Golf • Hero World Challenge",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138277_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Day 4",
+      "description": "Golf • Crown Australian Open 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138616_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
