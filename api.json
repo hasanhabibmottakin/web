@@ -6,7 +6,16 @@
       "description": "Cricket • West Indies tour of New Zealand, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137696_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
-      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764743402~acl=/*~id=b9bf11ef578667ecd82656dc5ea5bc74-1764700200204~hmac=902ed0a8f4ab7142d28a870444fd85bbe3a086d0712ba954ae7180cc80f8a97b",
+      "videoSource": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764765002~acl=/*~id=6ab33c013b7bbc954ef906d851e51383-1764721800127~hmac=b4e01fdc533172b7587722b37f68fbf3b26554b446cc9767599d3598aae7b008",
+      "isFree": false
+    },
+    {
+      "id": 419,
+      "title": "Hong Kong, China Women Vs Malaysia Women",
+      "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138660_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "https://bd-mc-fdlive.fancode.com/mumbai/138660_english_hls_9abf7d4a6b73740_1ta-di_h264/index.m3u8",
       "isFree": false
     }
   ],
@@ -16,15 +25,6 @@
       "title": "Sharjah Warriorz Vs Abu Dhabi Knight Riders",
       "description": "Cricket • DP World ILT20 2025-26",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138624_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
-      "title": "Malaysia Women Vs Hong Kong, China Women",
-      "description": "Cricket • Hong Kong, China Women tour of Malaysia, 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138660_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -85,15 +85,6 @@
     },
     {
       "id": 419,
-      "title": "Day 1",
-      "description": "Golf • Crown Australian Open 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138618_CASACARDS_PARTNER_16_9_1920_1080.png",
-      "playerType": "jwplayer",
-      "videoSource": "Unavailable",
-      "isFree": true
-    },
-    {
-      "id": 419,
       "title": "Thailand Vs Malaysia A",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138464_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -112,9 +103,9 @@
     },
     {
       "id": 419,
-      "title": "Day 2",
+      "title": "Day 1",
       "description": "Golf • Crown Australian Open 2025",
-      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138614_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138618_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
@@ -124,6 +115,15 @@
       "title": "Malaysia Vs Malaysia A",
       "description": "Cricket • Mini SEA Games Men's T10, 2025",
       "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138465_CASACARDS_PARTNER_16_9_1920_1080.png",
+      "playerType": "jwplayer",
+      "videoSource": "Unavailable",
+      "isFree": true
+    },
+    {
+      "id": 419,
+      "title": "Day 2",
+      "description": "Golf • Crown Australian Open 2025",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138614_CASACARDS_PARTNER_16_9_1920_1080.png",
       "playerType": "jwplayer",
       "videoSource": "Unavailable",
       "isFree": true
